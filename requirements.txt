@@ -1,0 +1,11 @@
+# The following need to be installed
+
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+random
+pylab
+statsmodels
+
