@@ -5,7 +5,7 @@
 Please see 'requirements.txt' for the required packages.
 
 ## Notebook overview :green_book:
-This notebook takes in tension data in the form of a .csv file and calculates the constants for the Yeoh material model. 
+This notebook takes in tension data in the form of a .csv file and calculates the constants for the Yeoh material model. Example tension test data is provided.
 
 ## Input Data :chart_with_upwards_trend:
 This code requires clean data to accurately characterize the material model. The output data from material tests usually have some bogus data at the start of the test (if the samples were not sufficiently tensioned) or at the end of the test (at or after the sample has broken) or both. It is required that this dat be cleand before attempting to characterize the material.
