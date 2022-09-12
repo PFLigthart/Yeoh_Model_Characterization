@@ -1,11 +1,6 @@
-# The following need to be installed
+# The following packages are required
 
 numpy
-scipy
 pandas
 matplotlib
-seaborn
-random
 pylab
-statsmodels
-
